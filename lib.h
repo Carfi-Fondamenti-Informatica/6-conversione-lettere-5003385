@@ -1,1 +1,6 @@
 
+
+#ifndef CONVERSIONE_LETTERE_LIB_H
+#define CONVERSIONE_LETTERE_LIB_H
+bool lib(char &a);
+#endif //CONVERSIONE_LETTERE_LIB_H
